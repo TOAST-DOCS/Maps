@@ -6,12 +6,10 @@ UMOS Map Studio는 ㈜42dot과 ㈜아이나비시스템즈가 공동으로 개�
 ## UNOS Map Studio 특징
 
 하나, 폰트는 물론, 지도 생상, 범례 아이콘까지 원하는대로 바꿔 나만의 특별한 지도를 만들 수 있습니다.
-<br>
 
 <img src="https://static.toastoven.net/prod_maps/maps-studio-1.png">
 <br>
 둘, 동료와 함께 수정 할 수 있어 하나의 스타일을 ‘빠르고’, ‘효과적’으로 업데이트하며 활용할 수 있습니다.
-<br>
 
 <img src="https://static.toastoven.net/prod_maps/maps-studio-2.png">
 <img src="https://static.toastoven.net/prod_maps/maps-studio-2-1.png">
